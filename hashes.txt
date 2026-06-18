@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Silueta fantasma
+
+This log tracks the cryptographic history and versioning for the song **Silueta fantasma** (silueta-fantasma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:52:59.417154 | `v1` | `ac2729dfdfd988e82ca49a92c9be6e6cb036d2eb527bfd519469df53b5a8a7c3` | `7635dcf5c84f1bef8c7239eb03772d6b0ce067a4ddee0b44622156480b2124ae` | `2026-06-18_silueta-fantasma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
