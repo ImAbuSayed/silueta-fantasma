@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-fantasma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Silueta fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-fantasma/) |
+| **Get License** | [Secure Licensing Rights for Silueta fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-fantasma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Una silueta fantasma en la oscuridad
+> Dime qué me hiciste, perdí la gravedad
+> Me tienes adicto, pura electricidad
+> Nena, no te escapes, quiero tu intimidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
